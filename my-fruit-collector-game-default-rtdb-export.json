@@ -1,0 +1,16 @@
+{
+  "gameState" : 1,
+  "playerCount" : 2,
+  "players" : {
+    "player1" : {
+      "distance" : 0,
+      "name" : "Nmae1",
+      "score" : 0
+    },
+    "player2" : {
+      "distance" : 0,
+      "name" : "Nmae2",
+      "score" : 0
+    }
+  }
+}
